@@ -8,9 +8,10 @@ I’m passionate about building impactful web applications, exploring full-stack
 **Bachelor’s in Information Technology Engineering | Royal University of Phnom Penh**
 
 ## Certificate:
-- **ASEAN Data Science Explorers – SAP Analytics Cloud Training** (2025 Enablement Session)
+- **ASEAN Data Science Explorers – SAP Analytics Cloud Training** <br/> *(2025 Enablement Session)*
   
-- NICC Start up 
+- **National Incubation Center of Cambodia – 8th Startup Camp (ICT)**
+<br/>*Completed a training course and demonstrated competence in startup development and ICT innovation (April 24–27, 2023)*
 
 ## Projects:  
 I’m currently working on **Image Editor Platform Powered by AI**, an innovative tool that integrates advanced image transformation features with premium subscription support.
