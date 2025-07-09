@@ -1,6 +1,6 @@
 <h3>Hi there, Welcome!</h3>
 
-Hello! My name is **Thy Chamroeunpiseth**. I am from **Royal University of Phnom Penh, Cambodia**, currently pursuing a Bachelor's degree in **Information Technology Engineering (ITE)**. 🎓
+Hi! My name is **Thy Chamroeunpiseth**. I am from **Royal University of Phnom Penh, Cambodia**, currently pursuing a Bachelor's degree in **Information Technology Engineering (ITE)**. 🎓
 
 I’m passionate about building impactful web applications, exploring full-stack development, and leveraging cloud services like **Cloudinary** to create powerful and user-friendly platforms. 💻✨
 
