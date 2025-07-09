@@ -8,7 +8,7 @@ I’m passionate about building impactful web applications, exploring full-stack
 **Bachelor’s in Information Technology Engineering | Royal University of Phnom Penh**
 
 ## Certificate:
-- **ASEAN Data Science Explorers – SAP Analytics Cloud Training** <br/> *(2025 Enablement Session)*
+- **ASEAN Data Science Explorers – SAP Analytics Cloud Training** *(2025 Enablement Session)*
   
 - **National Incubation Center of Cambodia – 8th Startup Camp (ICT)**
 <br/>*Completed a training course and demonstrated competence in startup development and ICT innovation (April 24–27, 2023)*
@@ -18,26 +18,20 @@ I’m currently working on **Image Editor Platform Powered by AI**, an innovativ
 - **Report - Implementation of an Image Editor Platform by using Cloudinary AI** (NextJs, Node,Js, Tailwind, Paddle, Cloudinary)
 <br> *An advanced web-based tool integrating AI-driven image editing features such as background removal, object detection, and restoration. Includes subscription support for premium users.*
 
-- 
-
 ## My current focus is on:
--
 -
 
 ## Technical Skills:
-Project Management | UX/UI Design | Mobile and Web Development | Full-Stack Development | Graphic Design
+- Project Management | UX/UI Design | Mobile and Web Development | Full-Stack Development | Graphic Design
 
 **Languages:** 
-
-HTML | CSS | JavaScript | TypeScript | Java | Python | C | C++ | C# | Dart
+- HTML | CSS | JavaScript | TypeScript | Java | Python | C | C++ | C# | Dart
 
 **Frameworks and Libraries:**
-
-ReactJs | NodeJs | NextJs | Tailwind CSS | Flutter | Android | Unity Engine
+- ReactJs | NodeJs | NextJs | Tailwind CSS | Flutter | Android | Unity Engine
 
 **Tools and Platforms:**
-
-MySQL | Firebase | Visual Studio Code | Android Studio | Figma | Canva | Adobe Illustrator 
+- MySQL | Firebase | Visual Studio Code | Android Studio | Figma | Canva | Adobe Illustrator 
 
 ## Languages
 - Khmer | Native
