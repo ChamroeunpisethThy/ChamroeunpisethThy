@@ -1,26 +1,26 @@
-<h3>Hi there, Welcome!</h3>
+<h3>Hi there, I'm Thy Chamroeunpiseth!</h3>
 
-Hi! My name is **Thy Chamroeunpiseth**. I am from **Royal University of Phnom Penh, Cambodia**, currently pursuing a Bachelor's degree in **Information Technology Engineering (ITE)**. 🎓
+I'm a fresh graduate with a **Bachelor’s degree in Information Technology Engineering** from the **Royal University of Phnom Penh, Cambodia**. 🎓
 
-I’m passionate about building impactful web applications, exploring full-stack development, and leveraging cloud services like **Cloudinary** to create powerful and user-friendly platforms. 💻✨
+I’m passionate about learning and growing in **UX/UI design, Mobile and Web front-end development**, and exploring **full-stack development**. I also work as **IT Support and Graphic Designer**, combining creativity with practical tech skills. ✨
 
 ## Education
 **Bachelor’s in Information Technology Engineering | Royal University of Phnom Penh**
 <br/> *GPA: --/4.00*
 
-## Certificate:
+## Certificate
 - **ASEAN Data Science Explorers – SAP Analytics Cloud Training** *(2025 Enablement Session)*
   
 - **National Incubation Center of Cambodia – 8th Startup Camp (ICT)**
 <br/>*Completed a training course and demonstrated competence in startup development and ICT innovation (April 24–27, 2023)*
 
 ## Projects
-I’m currently working on **Image Editor Platform Powered by AI**, an innovative tool that integrates advanced image transformation features with premium subscription support.
+I’m previously working on **Implementation of an Image Editor Platform by using Cloudinary AI**, an innovative tool that integrates advanced image transformation features with premium subscription support.
 - **Report - Implementation of an Image Editor Platform by using Cloudinary AI** (NextJs, Node,Js, Tailwind, Paddle, Cloudinary)
-<br> *An advanced web-based tool integrating AI-driven image editing features such as background removal, object detection, and restoration. Includes subscription support for premium users.*
+<br> *An advanced web-based tool integrating AI-driven image editing features such as background removal, object removal, object recolor, generative fill and image restoration. Includes subscription support for premium users. (2025)*
 
 ## My current focus is on
--
+- I’m currently working as **IT support and graphic designer at Sim Phally Clinic**.
 
 ## Technical Skills
 - Project Management | UX/UI Design | Mobile and Web Development | Full-Stack Development | Graphic Design
@@ -46,20 +46,33 @@ Fun fact: I enjoy merging creativity with code — blending AI and design to sol
 
 ## Blogs posts
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamroeunpiseththy&label=Profile%20views&color=0e75b6&style=flat" alt="chamroeunpiseththy" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamroeunpiseththy&label=Profile%20views&color=0e75b6&style=flat" alt="chamroeunpiseththy" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamroeunpiseththy" alt="chamroeunpiseththy" /></a> </p>
+<br/>
+<img alt="chamroeunpiseth view count" width="15%" src="https://komarev.com/ghpvc/?username=chamroeunpiseththy&label=Profile%20views&color=ff69b4&style=for-the-badge" />
+<br/>
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamroeunpiseththy" alt="chamroeunpiseththy" /></a> </p> -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="/https://github.com/chamroeunpiseththy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/chamroeunpiseththy" height="30" width="40" /></a>
-</p>
+</p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamroeunpiseththy&show_icons=true&locale=en&layout=compact" alt="chamroeunpiseththy" /></p>
+| <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamroeunpiseththy&show_icons=true&locale=en&layout=compact" alt="chamroeunpiseththy" /></a> | <a target="_blank" href="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamroeunpiseththy&show_icons=true&locale=en" alt="chamroeunpiseththy" /></a> |
+| ------------- | ------------- |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamroeunpiseththy&show_icons=true&locale=en" alt="chamroeunpiseththy" /></p>
 
+<!-- GitHub Streak 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamroeunpiseththy&" alt="chamroeunpiseththy" /></p>
+-->
+
+<!-- Tech Stack Icon 
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+-->
