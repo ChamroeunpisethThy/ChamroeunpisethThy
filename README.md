@@ -4,6 +4,7 @@ I'm a fresh graduate with a **Bachelor’s degree in Information Technology Engi
 
 I’m passionate about learning and growing in **UX/UI design, Mobile and Web front-end development**, and exploring **full-stack development**. I also work as **IT Support and Graphic Designer**, combining creativity with practical tech skills. ✨
 
+<!-- More Details
 ## Education
 **Bachelor’s in Information Technology Engineering | Royal University of Phnom Penh**
 <br/> *GPA: --/4.00*
@@ -39,6 +40,7 @@ I’m previously working on **Implementation of an Image Editor Platform by usin
 ## Languages
 - Khmer | Native
 - English | Proficient
+-->
 
 ## Contact Me
 How to reach me: [LinkedIn] | [GitHub] | [Email]  
