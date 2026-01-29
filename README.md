@@ -43,12 +43,17 @@ I’m previously working on **Implementation of an Image Editor Platform by usin
 -->
 
 ## Contact Me
-How to reach me: 
+
+<!-- How to reach me: 
 <br/>| Email: **thy.chamroeunpiseth@gmail.com**
 <br/>| LinkedIn: **Thy Chamroeunpiseth**
-<br/>| Github: **ChamroeunpisethThy**
-<!-- <br/>| Telegram: **|** -->
+<br/>| Github: **ChamroeunpisethThy** 
+<br/>| Telegram: **|**   -->
 
+How to reach me:
+- **Email:** [thy.chamroeunpiseth@gmail.com](mailto:thy.chamroeunpiseth@gmail.com)  
+- **LinkedIn:** [Thy Chamroeunpiseth](https://www.linkedin.com/in/thy-chamroeunpiseth-805b972a0/)  
+- **GitHub:** [ChamroeunpisethThy](https://github.com/ChamroeunpisethThy)
 
 ## Blogs posts
 
