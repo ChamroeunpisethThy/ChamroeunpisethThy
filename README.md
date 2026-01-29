@@ -43,8 +43,12 @@ I’m previously working on **Implementation of an Image Editor Platform by usin
 -->
 
 ## Contact Me
-How to reach me: [LinkedIn] | [GitHub] | [Email]  
-Fun fact: I enjoy merging creativity with code — blending AI and design to solve real-world problems.
+How to reach me: 
+<br/>| Email: **thy.chamroeunpiseth@gmail.com**
+<br/>| LinkedIn: **Thy Chamroeunpiseth**
+<br/>| Github: **ChamroeunpisethThy**
+<!-- <br/>| Telegram: **|** -->
+
 
 ## Blogs posts
 
@@ -64,8 +68,8 @@ Fun fact: I enjoy merging creativity with code — blending AI and design to sol
 <a href="/https://github.com/chamroeunpiseththy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/chamroeunpiseththy" height="30" width="40" /></a>
 </p> -->
 
-| <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamroeunpiseththy&show_icons=true&locale=en&layout=compact" alt="chamroeunpiseththy" /></a> | <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=chamroeunpiseththy&show_icons=true&locale=en" alt="chamroeunpiseththy" /></a> | 
-| ------------- | ------------- |
+<!-- | <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamroeunpiseththy&show_icons=true&locale=en&layout=compact" alt="chamroeunpiseththy" /></a> | <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=chamroeunpiseththy&show_icons=true&locale=en" alt="chamroeunpiseththy" /></a> | 
+| ------------- | ------------- | -->
 
 <!-- GitHub Streak 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamroeunpiseththy&" alt="chamroeunpiseththy" /></p>
